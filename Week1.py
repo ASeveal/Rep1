@@ -1,0 +1,17 @@
+Python 3.3.3 (v3.3.3:c3896275c0f6, Nov 18 2013, 21:18:40) [MSC v.1600 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> print ("Hi there")
+Hi there
+>>> print ("Hi") print ("here")
+SyntaxError: invalid syntax
+>>> ================================ RESTART ================================
+>>> 
+hello
+there now
+>>> print ("and again")
+and again
+>>> ================================ RESTART ================================
+>>> 
+Hello world
+I am in my ISD class right now
+>>> 
